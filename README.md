@@ -5,3 +5,4 @@ Ideas from http://jessefreeman.com/dev-techniques/automating-typescript-with-nod
 
 1.) Run npm install
 2.) To launch Browser and start transpiling TypeScript to javaScript, run grunt.
+
